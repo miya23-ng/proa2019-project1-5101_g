@@ -1,2 +1,6 @@
-# Project1_template
-Starter kit of Project1 for Project Exercise A in Department of Information Systems, Bunkyo University
+# 2019年度「プロジェクト演習A」
+## 課題プロジェクト(1)テンプレート
+
+このリポジトリ（スターターキット）にすでにあるファイルは，課題プロジェクト(1)のひな型ファイルです．
+
+### ファイルの一覧
