@@ -41,7 +41,7 @@ $(function(){
 				}
 
 				if($("p#detail").get(0)){//<p id="detail"></p>のタグがあったら
-					$("p#detail").text(obj.detail); //detail（DBではカラム）の値を変更
+					$("p#detail").html(obj.detail); //detail（DBではカラム）の値を変更
 				}
 
 				if($("div#image_list").get(0)){//<div class="image_list">のタグがあったら
