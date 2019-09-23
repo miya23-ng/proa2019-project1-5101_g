@@ -1,14 +1,14 @@
-/* ƒy[ƒW‘S‘Ì‚Ì”wŒiF‚È‚Ç‚ğİ’è */
+/* ãƒšãƒ¼ã‚¸å…¨ä½“ã®èƒŒæ™¯è‰²ãªã©ã‚’è¨­å®š */
 main {
 	background: #efffff;
 }
 
-/* ƒy[ƒW‚ÌŒ©o‚µ—Ìˆæ‚Ì”wŒiFC‰æ‘œ‚È‚Ç‚ğİ’èiid‘®«‚Åİ’èj */
+/* ãƒšãƒ¼ã‚¸ã®è¦‹å‡ºã—é ˜åŸŸã®èƒŒæ™¯è‰²ï¼Œç”»åƒãªã©ã‚’è¨­å®šï¼ˆidå±æ€§ã§è¨­å®šï¼‰ */
 #bg-head {
-  background: #deedff url(../photos/header_back_ground.jpg) repeat-x;
+	background: #deedff url(../photos/header_back_ground.jpg) repeat-x;
 }
 
-/* class‘®«‚Åİ’è‚µ‚½—Ìˆæ‚Å”wŒi‚ğÂŒni#99e0ffj‚É‚·‚é */
+/* classå±æ€§ã§è¨­å®šã—ãŸé ˜åŸŸã§èƒŒæ™¯ã‚’é’ç³»ï¼ˆ#99e0ffï¼‰ã«ã™ã‚‹ */
 .bg-lightblue{
 	background: #99e0ff;
 }
@@ -24,14 +24,14 @@ main {
 }
 
 .box-shadow{
-	box-shadow: 2px 2px 4px gray; /*‰e‚Ì• ‰E ‰º@‚Ú‚©‚µ‚Ì•@‰e‚ÌF(ƒJƒ‰[ƒR[ƒh‚à‰Âj */
+	box-shadow: 2px 2px 4px gray; /*å½±ã®å¹… å³ ä¸‹ã€€ã¼ã‹ã—ã®å¹…ã€€å½±ã®è‰²(ã‚«ãƒ©ãƒ¼ã‚³ãƒ¼ãƒ‰ã‚‚å¯ï¼‰ */
 }
 
-
+/* åœ°å›³ã®è¡¨ç¤ºé ˜åŸŸã®è¨­å®š */
 #map_here{
-float: left;
-clear: left;
-width: 340px;
-height: 240px;
+	float: left;
+	clear: left;
+	width: 340px;
+	height: 240px;
 }
 
